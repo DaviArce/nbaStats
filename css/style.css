@@ -163,61 +163,60 @@ header nav ul li:hover {
 #PlayersSection img {
   width: 362px;
   height: 528px;
-  margin-right: 250px;
+  margin-right: 150px;
   margin-left: 116px;
   margin-bottom: 200px;
   justify-content: center;
   align-items: center;
 }
-#PlayersSection .text{
-    margin-left:88px ;
-    margin-right: 175px;
-    margin-bottom: 320px;
-    text-align: start;
-    margin-right: 80px;
+#PlayersSection .text {
+  margin-left: 88px;
+  margin-right: 175px;
+  margin-bottom: 320px;
+  text-align: start;
+  margin-right: 80px;
 }
-#PlayerImg{
-    font-family: "Poppins", sans-serif;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+#PlayerImg {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
-#Measures{
-    margin-right: 150px;
-    width:572px;
-    height: 572px;
-    border-left: solid 5px white;
-    border-bottom:solid 5px white
+#Measures {
+  margin-right: 150px;
+  width: 572px;
+  height: 572px;
+  border-left: solid 5px white;
+  border-bottom: solid 5px white;
 }
-#Measures h1{
-    position: absolute;
-    margin-top: 225px;
-    margin-left: 28px;
-    font-weight: bold;
-    font-size: 28px;
+#Measures h1 {
+  position: absolute;
+  margin-top: 225px;
+  margin-left: 28px;
+  font-weight: bold;
+  font-size: 28px;
 }
-#PlayerInfo{
-    padding: 0px;
-    position: absolute;
-    margin-top:250px ;
-    margin-left: 475px;
-    text-align: center;
+#PlayerInfo {
+  padding: 0px;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 475px;
+  text-align: center;
 }
-#Data{
-    display: flex;
-    
+#Data {
+  display: flex;
 }
-#Data ul{
-    display: flex;
-    flex-direction: row;
-    list-style-type: none;
+#Data ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
 }
-#Data ul li{
-    margin: 15px;
-    font-weight: bold;
-    font-size: 28px;
+#Data ul li {
+  margin: 15px;
+  font-weight: bold;
+  font-size: 28px;
 }
 /* Match Section */
 #MatchSection {
@@ -305,30 +304,30 @@ header nav ul li:hover {
   height: 950px;
 }
 #StaticsSection h1 {
-    font-weight: bold;
-    font-size: 48px;
-    font-size: normal;
-    margin-bottom: 78px;
-  }
-#StaticsSection img{
-    width: 834px;
-    height: 515px;
-    margin-left: 65px;
+  font-weight: bold;
+  font-size: 48px;
+  font-size: normal;
+  margin-bottom: 78px;
 }
-#StaticsSection p{
-    text-align: start;
-    font-size: 36px;
-    font-weight: normal;
-    line-height: 54px;
-    margin-left: 8px;
+#StaticsSection img {
+  width: 834px;
+  height: 515px;
+  margin-left: 65px;
+}
+#StaticsSection p {
+  text-align: start;
+  font-size: 36px;
+  font-weight: normal;
+  line-height: 54px;
+  margin-left: 8px;
 }
 
 #staticsContainer {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 /* Footer */
 footer {
